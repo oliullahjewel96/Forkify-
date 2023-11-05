@@ -1,0 +1,24 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "source": "./starter/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build starter/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliullahjewel96/Forkify-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliullahjewel96/Forkify-/issues"
+  },
+  "homepage": "https://github.com/oliullahjewel96/Forkify-#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.2",
+    "parcel": "^2.10.2"
+  }
+}
